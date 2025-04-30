@@ -1,0 +1,52 @@
+# Python cache and temp files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.log
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+Pipfile.lock
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/system-specific files
+.DS_Store
+Thumbs.db
+
+# MySQL exports or dumps (if generated)
+*.sql
+*.dump
+
+# VS Code or IDE settings
+.vscode/
+.idea/
+
+# Virtual environments & Python package folders
+.eggs/
+build/
+dist/
+
+# CSV or large raw files
+data/raw/
+*.csv
+
+# Compiled notebooks or HTML exports (optional)
+*.html
+*.pdf
+
+# Backup or temp files
+*.bak
+*.swp
+*.tmp
+*~
+
+# Ignore visual outputs if you want to keep repo lightweight
+visuals/
