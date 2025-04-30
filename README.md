@@ -9,7 +9,7 @@ Technologies Used
 - **SQLAlchemy** (Python-to-MySQL integration)
 - **Jupyter Notebook** (Exploration & Visualization)
 - **VS Code / Anaconda** (Development environment)
-- Features
+Features
 - Automated ETL pipeline in Python
 - Star schema design (Fact + Dimension tables)
 - Data stored in MySQL and queried using SQLAlchemy
